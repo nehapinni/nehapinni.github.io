@@ -23,7 +23,7 @@ permalink: /education/
 classes: wide
 ---
 
-![University of Washington Logo](/assets/images/uw-logo.png){: .align-right width="200px"}
+![University of Washington Logo](/images/uw-logo.png){: .align-right width="200px"}
 
 ## University of Washington
 **Bachelor of Science in Computer Science**  
@@ -51,7 +51,7 @@ classes: wide
 
 ---
 
-![Stevenson High School Logo](/assets/images/stevenson-logo.png){: .align-right width="150px"}
+![Stevenson High School Logo](/images/uw-logo.png){: .align-right width="150px"}
 
 ## Adlai E. Stevenson High School
 *Diploma with Honors* | *August 2018 - May 2022*  
