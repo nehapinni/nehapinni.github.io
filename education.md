@@ -35,7 +35,7 @@ Seattle, WA
 ![Stevenson High School Logo](/images/shs-logo.png){: .align-left width="100px"}
 ## Adlai E. Stevenson High School
 *Diploma with Honors* | *August 2018 - May 2022*  
-📍 Lincolnshire, IL  
+Lincolnshire, IL  
 • Weighted GPA: 4.69  
 • National Honor Society
 
