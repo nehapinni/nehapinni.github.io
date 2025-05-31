@@ -1,15 +1,15 @@
----
+<!-- ---
 layout: archive
 title: "Education"
-permalink: /education/
+permalink: /education/ -->
 # author_profile: true
 # redirect_from:
 #   - /resume
----
+<!-- --- -->
 
 <!-- {% include base_path %} -->
 
-![University of Washington Logo](/images/uw-logo.png){: .align-left width="100px"}
+<!-- ![University of Washington Logo](/images/uw-logo.png){: .align-left width="100px"}
 ## University of Washington
 **Bachelor of Science in Computer Science**  
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
@@ -39,7 +39,10 @@ Seattle, WA
 • Weighted GPA: 4.69  
 • National Honor Society
 
----
+--- -->
+
+
+
 <!-- layout: single
 title: "Education"
 permalink: /education/
@@ -79,3 +82,60 @@ permalink: /education/
     </div>
   </div>
 </div> -->
+
+
+
+
+
+---
+layout: page
+permalink: /education/
+title: Education
+description: My educational background and coursework
+nav: true
+nav_order: 3
+---
+
+# Education
+
+<div class="education-entry">
+
+## University of Washington
+**September 2022 - June 2025**
+
+### Bachelors of Science
+- **Major:** Computer Science \| **Minor:** Business Administration
+- **List of all my important classes (separated by commas):**
+  - Data Structures and Algorithms, Computer Systems Programming, Software Design and Implementation, Database Systems, Computer Networks, Machine Learning, Artificial Intelligence, Operating Systems, Computer Graphics, Web Programming, Statistics, Calculus, Linear Algebra, Discrete Mathematics
+
+</div>
+
+<div class="education-entry">
+
+## Stevenson High School
+**August 2018 - May 2022**
+
+</div>
+
+<style>
+.education-entry {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.education-entry:last-child {
+    border-bottom: none;
+}
+
+.education-entry h2 {
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+}
+
+.education-entry h3 {
+    color: #34495e;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+</style>
