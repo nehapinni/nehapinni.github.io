@@ -1,15 +1,15 @@
-<!-- ---
+---
 layout: archive
 title: "Education"
-permalink: /education/ -->
-<!-- # author_profile: true
+permalink: /education/
+# author_profile: true
 # redirect_from:
-#   - /resume -->
-<!-- --- -->
+#   - /resume 
+---
 
 <!-- {% include base_path %} -->
 
-<!-- ![University of Washington Logo](/images/uw-logo.png){: .align-left width="100px"}
+![University of Washington Logo](/images/uw-logo.png){: .align-left width="100px"}
 ## University of Washington
 **Bachelor of Science in Computer Science**  
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
@@ -39,7 +39,7 @@ Lincolnshire, IL
 • Weighted GPA: 4.69  
 • National Honor Society
 
---- -->
+---
 
 
 
@@ -86,22 +86,3 @@ permalink: /education/
 
 
 
----
-layout: single
-permalink: /education/
-title: Education
-author_profile: true
----
-
-## University of Washington
-**September 2022 - June 2025**
-
-### Bachelors of Science
-- **Major:** Computer Science \| **Minor:** Business Administration
-- **List of all my important classes (separated by commas):**
-  - Data Structures and Algorithms, Computer Systems Programming, Software Design and Implementation, Database Systems, Computer Networks, Machine Learning, Artificial Intelligence, Operating Systems, Computer Graphics, Web Programming, Statistics, Calculus, Linear Algebra, Discrete Mathematics
-
----
-
-## Stevenson High School
-**August 2018 - May 2022**
