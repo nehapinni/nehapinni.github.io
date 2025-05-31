@@ -45,6 +45,7 @@ author_profile: true
 .date-range {
   font-style: italic;
   margin-bottom: 0.5rem;
+  opacity: 0.8;
 }
 
 .coursework-section {
