@@ -9,7 +9,7 @@ permalink: /education/
 
 <!-- {% include base_path %} -->
 
-
+![University of Washington Logo](/images/uw-logo.png){: .align-right width="200px"}
 ## University of Washington
 **Bachelor of Science in Computer Science**  
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
