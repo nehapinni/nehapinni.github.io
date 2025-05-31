@@ -43,7 +43,6 @@ Seattle, WA
 layout: single
 title: "Education"
 permalink: /education/
-classes: wide
 ---
 
 <div class="education-container">
@@ -53,7 +52,7 @@ classes: wide
       <h2>University of Washington</h2>
       <p class="degree"><strong>Bachelor of Science in Computer Science</strong><br>
       <em>Minor in Business Administration | September 2022 - June 2025 (Expected)</em></p>
-      <p class="location">📍 Seattle, WA<br>
+      <p class="location">Seattle, WA<br>
       <span class="honors">Dean's List Honors</span></p>
     </div>
   </div>
