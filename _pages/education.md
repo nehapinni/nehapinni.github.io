@@ -31,7 +31,6 @@ author_profile: true
 
 .institution-info h2 {
   margin: 0;
-  color: #2c3e50;
   font-size: 1.5em;
 }
 
@@ -41,11 +40,9 @@ author_profile: true
 }
 
 .degree-info strong {
-  color: #34495e;
 }
 
 .date-range {
-  color: #666;
   font-style: italic;
   margin-bottom: 0.5rem;
 }
@@ -55,17 +52,14 @@ author_profile: true
 }
 
 .coursework-section h3 {
-  color: #2c3e50;
   margin-bottom: 0.5rem;
 }
 
 .course-list {
   line-height: 1.6;
-  color: #555;
 }
 
 .honors {
-  color: #27ae60;
   font-weight: bold;
   margin-top: 0.5rem;
 }
