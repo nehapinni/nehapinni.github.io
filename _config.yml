@@ -22,7 +22,7 @@ repository               : "nehapinni/nehapinni.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "neha-img.JPG"
+  avatar           : "neha-img.png"
   name             : "Neha Pinni"
   pronouns         : "she/her"  
   bio              : "Computer Science & Business student at UW | Incoming Software Engineer @ Goldman Sachs"

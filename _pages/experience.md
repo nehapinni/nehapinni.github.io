@@ -64,83 +64,72 @@ author_profile: true
 
 <div class="experience-section">
   <div class="experience-header">
-    <img src="/images/goldman-sachs-logo.png" alt="Goldman Sachs Logo" class="company-logo">
+    <img src="/images/goldman_sachs_logo.png" alt="Goldman Sachs Logo" class="company-logo">
     <div class="experience-info">
       <h2>Goldman Sachs</h2>
-      <div class="job-title">Incoming Software Engineer</div>
-      <div class="date-location">Summer 2025 | New York, NY</div>
+      <div class="job-title">Summer Engineering Analyst</div>
+      <div class="date-location">June 2024 - August 2024 | Dallas, TX</div>
     </div>
   </div>
   
   <div class="job-description">
-    <p>Accepted full-time offer to join Goldman Sachs as a Software Engineer following successful internship performance.</p>
     <ul>
-      <li>Will be working on enterprise-level financial technology solutions</li>
-      <li>Contributing to high-performance trading systems and risk management platforms</li>
-      <li>Collaborating with cross-functional teams on mission-critical applications</li>
+      <li>Worked on the credit risk applications team to implement a system that improved the run time of productionized ICR generation jobs by 37.5% through optimizing workflows, designing a system to batch and parallelize rule-based reviews, and developing an efficient logging mechanism</li>
+      <li>Networked and collaborated across teams, participated in scrum meetings, led a final presentation for the global team</li>
     </ul>
   </div>
 </div>
 
 <div class="experience-section">
   <div class="experience-header">
-    <img src="/images/goldman-sachs-logo.png" alt="Goldman Sachs Logo" class="company-logo">
+    <img src="/images/codeday_org_logo.png" alt="CodeDay Lab Logo" class="company-logo">
     <div class="experience-info">
-      <h2>Goldman Sachs</h2>
+      <h2>CodeDay Lab</h2>
       <div class="job-title">Software Engineering Intern</div>
-      <div class="date-location">Summer 2024 | New York, NY</div>
+      <div class="date-location">June 2023 - August 2023 | Remote</div>
     </div>
   </div>
   
   <div class="job-description">
-    <p>Developed and maintained software solutions for financial trading systems in a fast-paced, high-stakes environment.</p>
     <ul>
-      <li>Built scalable backend services using Java and Python for real-time data processing</li>
-      <li>Collaborated with senior engineers on database optimization, improving query performance by 30%</li>
-      <li>Participated in code reviews and implemented best practices for secure, efficient code</li>
-      <li>Worked on user interface improvements using React and modern web technologies</li>
+      <li>Enhanced the functionality of the Firefiles file storage website under the mentorship of Thein Htay Oo, a Software Engineer at UPMC</li>
+      <li>Designed and implemented a robust tagging system that allows users to efficiently add, remove, and edit tags on files, improving their interaction with storage system APIs like AWS S3, Firebase, and Backblaze</li>
     </ul>
   </div>
 </div>
 
 <div class="experience-section">
   <div class="experience-header">
-    <img src="/images/company-logo-3.png" alt="Company Logo" class="company-logo">
+    <img src="/images/loyola_university_chicago_logo.png" alt="Loyola Logo" class="company-logo">
     <div class="experience-info">
-      <h2>Tech Company Name</h2>
-      <div class="job-title">Software Development Intern</div>
-      <div class="date-location">Summer 2023 | Seattle, WA</div>
+      <h2>Loyola University</h2>
+      <div class="job-title">Cybersecurity Research Intern</div>
+      <div class="date-location">April 2021 - October 2021 | Chicago, IL</div>
     </div>
   </div>
   
   <div class="job-description">
-    <p>Contributed to full-stack development projects and gained experience in agile development methodologies.</p>
     <ul>
-      <li>Developed web applications using React, Node.js, and MongoDB</li>
-      <li>Participated in daily standups and sprint planning meetings</li>
-      <li>Implemented responsive design principles for mobile-friendly user interfaces</li>
-      <li>Wrote comprehensive unit tests to ensure code quality and reliability</li>
+      <li>Conducted research to determine the feasibility of private networks and decipher encrypted DNS lookups using machine learning</li>
+      <li>Worked with lead for the university’s center of cybersecurity and mentored my junior intern</li>
     </ul>
   </div>
 </div>
 
 <div class="experience-section">
   <div class="experience-header">
-    <img src="/images/uw-logo.png" alt="University of Washington Logo" class="company-logo">
+    <img src="/images/iit-logo.png" alt="IIT Logo" class="company-logo">
     <div class="experience-info">
-      <h2>University of Washington</h2>
-      <div class="job-title">Teaching Assistant</div>
-      <div class="date-location">September 2023 - Present | Seattle, WA</div>
+      <h2>Illinois Institute of Technology</h2>
+      <div class="job-title">Chemical Engineering Intern</div>
+      <div class="date-location">April 2020 - October 2020 | Chicago, IL</div>
     </div>
   </div>
   
   <div class="job-description">
-    <p>Support undergraduate students in computer science coursework through tutoring, grading, and office hours.</p>
     <ul>
-      <li>Hold weekly office hours to help students with programming assignments and concepts</li>
-      <li>Grade assignments and provide detailed feedback on code quality and algorithm efficiency</li>
-      <li>Assist in lab sessions for Data Structures and Algorithms course</li>
-      <li>Mentor students on best practices in software development and debugging techniques</li>
+      <li>Developed research project to create an inexpensive way to reduce carbon dioxide to energy-rich chemicals with abundant resources</li>
+      <li>Performed research on electrochemistry and contributed to building data visualizations</li>
     </ul>
   </div>
 </div>
