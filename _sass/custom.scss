@@ -1,31 +1,112 @@
-// Education Page Styles
-.coursework-columns {
+// // Education Page Styles
+// .coursework-columns {
+//     display: flex;
+//     gap: 2rem;
+//     margin: 1.5rem 0;
+  
+//     .course-column {
+//       flex: 1;
+//       line-height: 1.6;
+//     }
+//   }
+  
+//   // Badges and Honors
+//   .deans-list {
+//     color: #4b2e83; // UW Purple
+//     font-weight: bold;
+//   }
+  
+//   // Responsive adjustments
+//   @media (max-width: 768px) {
+//     .coursework-columns {
+//       flex-direction: column;
+//       gap: 0.5rem;
+//     }
+    
+//     img[alt*="Logo"] {
+//       float: none !important;
+//       display: block;
+//       margin: 0 auto 1rem;
+//     }
+//   }
+
+
+/* Education Page Styles */
+.education-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .uw-header {
     display: flex;
-    gap: 2rem;
-    margin: 1.5rem 0;
-  
-    .course-column {
-      flex: 1;
-      line-height: 1.6;
-    }
-  }
-  
-  // Badges and Honors
-  .deans-list {
-    color: #4b2e83; // UW Purple
-    font-weight: bold;
-  }
-  
-  // Responsive adjustments
-  @media (max-width: 768px) {
-    .coursework-columns {
-      flex-direction: column;
-      gap: 0.5rem;
+    align-items: flex-start;
+    gap: 30px;
+    margin-bottom: 30px;
+    
+    .uw-logo {
+      width: 100px;
+      height: auto;
+      margin-top: 10px;
     }
     
-    img[alt*="Logo"] {
-      float: none !important;
-      display: block;
-      margin: 0 auto 1rem;
+    .uw-text {
+      flex: 1;
+      
+      h2 {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+      }
+      
+      .degree {
+        margin-bottom: 0.5rem;
+      }
+      
+      .location {
+        margin-bottom: 0;
+        color: #666;
+      }
+      
+      .honors {
+        color: #4b2e83;
+        font-weight: bold;
+      }
+    }
+  }
+  
+  .coursework-columns {
+    display: flex;
+    gap: 40px;
+    margin: 20px 0;
+    
+    .course-column {
+      flex: 1;
+      
+      ul {
+        padding-left: 20px;
+        margin: 0;
+        
+        li {
+          margin-bottom: 8px;
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .uw-header {
+      flex-direction: column;
+      gap: 15px;
+      
+      .uw-logo {
+        align-self: center;
+      }
+    }
+    
+    .coursework-columns {
+      flex-direction: column;
+      gap: 15px;
     }
   }
