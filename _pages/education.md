@@ -9,15 +9,31 @@ permalink: /education/
 
 <!-- {% include base_path %} -->
 
-Education
-======
+
 ## University of Washington
 **Bachelor of Science in Computer Science**  
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
 Seattle, WA  
 *Dean's List Honors*
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+### Relevant Coursework:
+<div class="coursework-columns">
+  <div class="course-column">
+    • Natural Language Processing<br>
+    • Distributed Systems<br>
+    • Algorithms<br>
+    • Artificial Intelligence<br>
+    • Machine Learning
+  </div>
+  <div class="course-column">
+    • Data Structures & Parallelism<br>
+    • Databases<br>
+    • Operating Systems<br>
+    • Security<br>
+    • Systems Programming
+  </div>
+</div>
+
 
 
 <!-- ---
