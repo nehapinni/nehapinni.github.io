@@ -9,7 +9,7 @@ permalink: /education/
 
 <!-- {% include base_path %} -->
 
-![University of Washington Logo](/images/uw-logo.png){: .align-right width="200px"}
+![University of Washington Logo](/images/uw-logo.png){: .align-right width="100px"}
 ## University of Washington
 **Bachelor of Science in Computer Science**  
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
@@ -32,7 +32,7 @@ Seattle, WA
     • Systems Programming
   </div>
 </div>
-![Stevenson High School Logo](/images/uw-logo.png){: .align-right width="150px"}
+![Stevenson High School Logo](/images/uw-logo.png){: .align-right width="100px"}
 ## Adlai E. Stevenson High School
 *Diploma with Honors* | *August 2018 - May 2022*  
 📍 Lincolnshire, IL  
