@@ -11,7 +11,11 @@ permalink: /education/
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## University of Washington
+**Bachelor of Science in Computer Science**  
+*Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
+Seattle, WA  
+*Dean's List Honors*
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
@@ -28,7 +32,7 @@ classes: wide
 ## University of Washington
 **Bachelor of Science in Computer Science**  
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
-📍 Seattle, WA  
+Seattle, WA  
 *Dean's List Honors*
 
 ### Relevant Coursework:
