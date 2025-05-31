@@ -15,7 +15,6 @@ permalink: /education/
 *Minor in Business Administration* | *September 2022 - June 2025 (Expected)*  
 Seattle, WA  
 *Dean's List Honors*
-
 ### Relevant Coursework:
 <div class="coursework-columns">
   <div class="course-column">
@@ -33,7 +32,11 @@ Seattle, WA
     • Systems Programming
   </div>
 </div>
-
+## Adlai E. Stevenson High School
+*Diploma with Honors* | *August 2018 - May 2022*  
+📍 Lincolnshire, IL  
+• Weighted GPA: 4.69  
+• National Honor Society
 
 
 <!-- ---
