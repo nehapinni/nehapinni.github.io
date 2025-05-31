@@ -83,9 +83,9 @@ author_profile: true
   <div class="honors">Dean's List Honors</div>
   
   <div class="coursework-section">
-    <h3>List of all my important classes (separated by commas):</h3>
+    <h3>Relevant Courses:</h3>
     <div class="course-list">
-      Natural Language Processing, Distributed Systems, Algorithms, Artificial Intelligence, Machine Learning, Data Structures & Parallelism, Databases, Operating Systems, Security, Systems Programming, Software Design and Implementation, Computer Networks, Web Programming, Statistics, Calculus, Linear Algebra, Discrete Mathematics
+      Networks, Deep Learning, Natural Language Processing, Distributed Systems, Algorithms, Artificial Intelligence, Machine Learning, Data Structures & Parallelism, Databases, Operating Systems, Security, Systems Programming, Software Design and Implementation, Computer Networks, Web Programming, Statistics, Calculus, Linear Algebra, Discrete Mathematics
     </div>
   </div>
 </div>
