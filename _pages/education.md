@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Education"
 permalink: /education/
@@ -8,7 +8,7 @@ permalink: /education/
 ---
 
 <!-- {% include base_path %} -->
-<!-- 
+
 ![University of Washington Logo](/images/uw-logo.png){: .align-left width="100px"}
 ## University of Washington
 **Bachelor of Science in Computer Science**  
@@ -37,10 +37,10 @@ Seattle, WA
 *Diploma with Honors* | *August 2018 - May 2022*  
 📍 Lincolnshire, IL  
 • Weighted GPA: 4.69  
-• National Honor Society -->
+• National Honor Society
 
 ---
-layout: single
+<!-- layout: single
 title: "Education"
 permalink: /education/
 ---
@@ -78,4 +78,4 @@ permalink: /education/
       </ul>
     </div>
   </div>
-</div>
+</div> -->
