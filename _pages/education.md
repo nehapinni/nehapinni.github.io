@@ -32,7 +32,7 @@ Seattle, WA
     • Systems Programming
   </div>
 </div>
-![Stevenson High School Logo](/images/uw-logo.png){: .align-right width="100px"}
+![Stevenson High School Logo](/images/shs-logo.png){: .align-right width="100px"}
 ## Adlai E. Stevenson High School
 *Diploma with Honors* | *August 2018 - May 2022*  
 📍 Lincolnshire, IL  
