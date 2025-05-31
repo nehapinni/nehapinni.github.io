@@ -93,8 +93,6 @@ title: Education
 author_profile: true
 ---
 
-<div class="education-entry">
-
 ## University of Washington
 **September 2022 - June 2025**
 
@@ -103,34 +101,7 @@ author_profile: true
 - **List of all my important classes (separated by commas):**
   - Data Structures and Algorithms, Computer Systems Programming, Software Design and Implementation, Database Systems, Computer Networks, Machine Learning, Artificial Intelligence, Operating Systems, Computer Graphics, Web Programming, Statistics, Calculus, Linear Algebra, Discrete Mathematics
 
-</div>
-
-<div class="education-entry">
+---
 
 ## Stevenson High School
 **August 2018 - May 2022**
-
-</div>
-
-<style>
-.education-entry {
-    margin-bottom: 2rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid #e0e0e0;
-}
-
-.education-entry:last-child {
-    border-bottom: none;
-}
-
-.education-entry h2 {
-    color: #2c3e50;
-    margin-bottom: 0.5rem;
-}
-
-.education-entry h3 {
-    color: #34495e;
-    margin-top: 1rem;
-    margin-bottom: 0.5rem;
-}
-</style>
