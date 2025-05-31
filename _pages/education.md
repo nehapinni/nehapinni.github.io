@@ -86,17 +86,12 @@ permalink: /education/
 
 
 
-
 ---
-layout: page
+layout: single
 permalink: /education/
 title: Education
-description: My educational background and coursework
-nav: true
-nav_order: 3
+author_profile: true
 ---
-
-# Education
 
 <div class="education-entry">
 
