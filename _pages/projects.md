@@ -53,7 +53,6 @@ author_profile: true
 
 .tech-stack {
   font-weight: bold;
-  color: #2c5aa0;
 }
 </style>
 
