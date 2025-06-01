@@ -25,7 +25,6 @@ author_profile: true
 
 .category-title {
   font-weight: bold;
-  color: #2c5aa0;
   font-size: 1.2em;
   margin-bottom: 0.5rem;
 }
@@ -40,7 +39,6 @@ author_profile: true
 
 .cert-date {
   font-weight: bold;
-  color: #28a745;
 }
 </style>
 
