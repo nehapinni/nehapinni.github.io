@@ -13,7 +13,7 @@ title                    : "Neha Pinni / Personal Website"
 title_separator          : "-"
 name                     : &name "Neha Pinni"
 description              : &description "Computer Science & Business student at UW | Incoming Software Engineer @ Goldman Sachs"
-url                      : https://nehapinni.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://nehapinni.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nehapinni/nehapinni.github.io" 
 
