@@ -176,5 +176,3 @@ author_profile: true
     </ul>
   </div>
 </div>
-
-<!-- Add more project sections as needed -->
