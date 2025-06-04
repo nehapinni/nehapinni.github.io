@@ -37,6 +37,6 @@ This project involved creating a personal website using GitHub Pages with Jekyll
 - **Framework:** Jekyll
 
 ## Development Notes
-- Used AI assistance (Claude) for troubleshooting DNS configuration and HTTPS setup issues, specifically due to initial problems with Cloudflare proxy settings that prevented SSL certificate generation - the proxy was intercepting requests and GitHub couldn't verify domain ownership
+- Used AI assistance (Claude) for troubleshooting initial website changes and DNS configuration and HTTPS setup issues, specifically due to initial problems with Cloudflare proxy settings that prevented SSL certificate generation - the proxy was intercepting requests and GitHub couldn't verify domain ownership
 
 
